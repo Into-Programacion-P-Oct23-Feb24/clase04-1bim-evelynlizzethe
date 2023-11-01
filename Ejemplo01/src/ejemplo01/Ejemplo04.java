@@ -11,6 +11,11 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
+        /*
+        println vs print es que el primero nos da el espacio por si solo, mientras 
+        que con print se debe poner el espacio manualmente para hacer mas entendible 
+        la información
+        */
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
