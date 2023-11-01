@@ -24,6 +24,8 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
                 nacimiento);
         
+        El \n da un espacio entre dos cadenas y el \t es un salto de linea 
+        
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
